@@ -1,0 +1,16 @@
+.selection {
+    display: flex;
+    justify-content: center;
+}
+
+.select-one {
+    font-size: 40px;
+}
+
+.select-two {
+    font-size: 40px;
+}
+
+.margin {
+    margin-left: 40px;
+}
